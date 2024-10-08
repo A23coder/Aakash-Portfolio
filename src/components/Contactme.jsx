@@ -8,6 +8,7 @@ function Contactme() {
       return <p className='text-center m-5 '>Thanks for your reply!</p>;
   }
   return (
+    
     <div>
       <section >
     <div className="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
